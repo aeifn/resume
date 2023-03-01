@@ -32,9 +32,11 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
       - run: npm ci
-      - run: npm run build
+      - run: npm run html
+      - run: npm run pdf
       - run: mkdir ./_site
       - run: cp resume.html ./_site/index.html
+      - run: cp resume.pdf ./_site/resume.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
