@@ -1,10 +1,11 @@
 {
+  "type": "module",
   "dependencies": {
     "jsonresume-theme-even": "^0.18.1",
     "resume-cli": "^3.0.8"
   },
   "scripts": {
     "serve": "resume serve",
-    "build": "resume export index.html"
+    "build": "resume export --resume resume.yaml resume.html"
   }
 }

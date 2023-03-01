@@ -34,7 +34,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: mkdir ./_site
-      - run: cp index.html ./_site
+      - run: cp resume.html ./_site/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 

@@ -1,0 +1,139 @@
+$schema: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+basics:
+  name: Egor Kuzmichev
+  label: DevOps and Unix administration
+  image: https://avatars.githubusercontent.com/u/13631515
+  email: egor@math.ru
+  phone: +7 925 414-12-13
+  location:
+    city: Dubai
+    countryCode: AE
+  profiles:
+    - network: Linkedin
+      username: egor-kuzmichev
+      url: https://www.linkedin.com/in/egor-kuzmichev/
+    - network: GitHub
+      username: aeifn
+      url: https://github.com/aeifn
+    - network: Facebook
+      username: aeifn
+      url: https://facebook.com/aeifn
+    - network: Telegram
+      username: aeifn
+      url: https://t.me/aeifn
+work:
+  - name: Hypermath
+    location: Moscow, RU
+    description: Math LMS by MCCME
+    summary: Electronic math textbook for schools.
+    position: DevOps engineer
+    url: https://hypermath.ru
+    startDate: "2021-11-02"
+    highlights:
+      - Application containerization and orchestration
+      - CI/CD processes
+volunteer:
+  - organization: PastVu
+    position: System administrator
+    url: https://pastvu.com/
+    startDate: "2020-09-17"
+    summary: Online platform for gathering, clarifying, attribution, and discussing retro photos.
+    highlights:
+      - Containerization
+      - System administration
+      - CI/CD
+education:
+  - institution: Higher School of Economics
+    url: https://www.hse.ru/
+    area: Media Communications
+    studyType: Bachelor
+    startDate: "2006-09-01"
+    endDate: "2010-06-01"
+  - institution: Adyghe State University
+    url: https://famicon.adygnet.ru
+    area: Game Theory
+    studyType: Master
+    startDate: "2018-09-01"
+    endDate: "2020-06-01"
+  - institution: Moscow State University
+    url: https://math.msu.ru
+    area: Fundamental Mathematics
+    studyType: Professional retraining program
+    startDate: "2020-09-01"
+    endDate: "2022-06-01"
+skills:
+  - name: Infrastructure
+    keywords:
+      - Kubernetes
+      - ArgoCD
+      - GitLab
+      - Terraform
+      - Ansible
+      - Prometheus
+      - Grafana
+  - name: Vurtualization
+    keywords:
+      - FreeBSD
+      - bhyve
+      - jails
+      - CBSD
+  - name: System Administration
+    keywords:
+      - Ubuntu
+      - Debian
+      - FreeBSD
+      - OpenBSD
+      - ArchLinux
+      - Slackware
+  - name: Web Development
+    keywords:
+      - HTML
+      - CSS
+      - Javascript
+  - name: Other
+    keywords:
+      - Python
+      - PHP
+      - Shell
+      - XML/XSLT/Xpath
+      - SQL
+      - LaTeX
+languages:
+  - language: Russian
+    fluency: Native speaker
+  - language: English
+projects:
+  - name: Cloud platform development
+    description: Alternative stack cloud platform
+    highlights:
+      - Based on FreeBSD and bhyve
+      - Deploy virtual machines and k8s-clusters in few minutes
+      - Hight-level REST-API for cluster management
+      - Telegram-bot for VM administration
+    keywords:
+      - FreeBSD
+      - bhyve
+      - CBSD
+    startDate: "2020-06-02"
+    endDate: "2023-02-17"
+    roles:
+      - Co-Founder
+      - CEO
+    entity: ConvectiX
+    type: application
+  - name: Popular Math channel
+    startDate: "2019-05-31"
+    endDate: "2022-09-21"
+    description: Alexei Savvateev's Pupular Mathematics YouTube-channel
+    url: https://www.youtube.com/watch?v=IzIewgnJXrA
+    roles:
+      - Co-Founder
+      - Director
+    entity: Mathcult-hello!
+    highlights:
+      - YouTube Silver button
+      - Most popular video gained 2 million views
+meta:
+  canonical: https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json
+  version: v1.0.0
+  lastModified: "2017-12-24T15:53:00"
