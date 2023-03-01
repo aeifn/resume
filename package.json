@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jsonresume-theme-even": "^0.18.1",
+    "resume-cli": "^3.0.8"
+  },
+  "scripts": {
+    "serve": "resume serve",
+    "build": "resume export index.html"
+  }
+}
