@@ -50,7 +50,7 @@
       "position": "Website development and server administration",
       "highlights": [
         "Dealt with developing and deploying a couple of frameworks and CMS, including WordPress, Laravel, RoR, Django, Mediawiki, Redmine, Drupal, Next.js etc...",
-        "Configured HTTP, Mail, DNS, Database, Caching and other types of services",
+        "Configured HTTP, Mail, DNS, Database, Caching and other types of daemons",
         "Baremetal and virtual servers maintenance, provisioning and automation"
       ]
     },
@@ -147,12 +147,14 @@
         "FreeBSD",
         "OpenBSD",
         "ArchLinux",
-        "Slackware"
+        "Slackware",
+        "Perl"
       ]
     },
     {
       "name": "Development",
       "keywords": [
+        "Git",
         "HTML",
         "CSS",
         "Javascript",
