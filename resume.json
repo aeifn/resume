@@ -77,9 +77,8 @@
       "summary": "Online platform for gathering, clarifying, attribution, and discussing retro photos. More than 1.5 million photos uploaded.",
       "highlights": [
         "Recovery after previous Gentoo server failure",
-        "Containerization",
-        "System administration and backup",
-        "Deployment orchestration"
+        "Containerization and deployment orchestration",
+        "System administration and backup"
       ]
     },
     {
