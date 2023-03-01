@@ -6,6 +6,7 @@
   },
   "scripts": {
     "serve": "resume serve",
-    "build": "resume export --resume resume.yaml resume.html"
+    "build": "resume export resume.html",
+    "pdf": "resume export resume.pdf"
   }
 }
