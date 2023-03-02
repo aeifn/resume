@@ -2,10 +2,11 @@
   "dependencies": {
     "jsonresume-theme-even": "^0.18.1",
     "puppeteer": "^19.7.2",
-    "resumed": "^3.0.1"
+    "resumed": "^3.0.1",
+    "yaml-js": "^0.3.1"
   },
   "scripts": {
-    "html": "resumed",
+    "html": "node html.mjs",
     "pdf": "node pdf.mjs"
   }
 }
