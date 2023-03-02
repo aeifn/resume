@@ -32,6 +32,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
       - run: npm ci
+      - run: npm run validate
       - run: npm run html
       - run: npm run pdf
       - run: mkdir ./_site
