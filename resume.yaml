@@ -115,7 +115,6 @@ skills:
       - OpenBSD
       - ArchLinux
       - Slackware
-      - Perl
   - name: Development
     keywords:
       - Git
@@ -125,6 +124,7 @@ skills:
       - Python
       - PHP
       - Shell
+      - Perl
       - XML/XSLT/Xpath
       - SQL
       - LaTeX
