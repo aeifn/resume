@@ -42,7 +42,7 @@ work:
       - Baremetal and virtual servers maintenance, provisioning and automation
   - name: Hypermath
     location: Moscow, RU
-    description: Math LMS by MCCME
+    description: Math LMS by MCCME (Moscow Center for Continuous Mathematical Education)
     summary: Electronic math textbook for schools.
     position: DevOps engineer
     url: https://hypermath.ru
