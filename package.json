@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jsonresume-theme-even": "^0.18.1",
-    "puppeteer": "^19.7.2",
-    "resume-schema": "^1.0.0",
-    "resumed": "^3.0.1",
+    "jsonresume-theme-even": "^0.23.0",
+    "puppeteer": "^24.2.1",
+    "resume-schema": "^1.0.1",
+    "resumed": "^4.1.0",
     "yaml-js": "^0.3.1"
   },
   "scripts": {
