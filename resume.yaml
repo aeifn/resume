@@ -129,9 +129,10 @@ skills:
       - SQL
       - LaTeX
 languages:
+  - language: English
+    fluency: Professional working proficiency
   - language: Russian
     fluency: Native speaker
-  - language: English
 projects:
   - name: Hyperconvergent cloud platform
     description: Alternative stack IaaS, SaaS and VDI
